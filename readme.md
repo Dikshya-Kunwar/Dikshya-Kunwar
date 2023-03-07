@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/view/omori-omori-happy-omori-happy-hi-omori-hi-omori-hellow-gif-25349448" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/pdfu1_4oMOEAAAAC/omori-omori-happy.gif" align="center" style="width: 100%" />
 </div>  
   
 
