@@ -20,7 +20,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
@@ -31,7 +31,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
@@ -42,7 +42,7 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> 
 </div>
-</td></tr></table>  
+</td><td valign="top" width="20%"> 
 
 ### Toolsandplatforms
 <div align="center">   
@@ -52,7 +52,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>   
 </div>
-</td></tr></table> 
+</td><td valign="top" width="20%">
 
 ### Database
 <div align="center">  
@@ -63,6 +63,7 @@
 </td></tr></table>  
 
 <br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Dikshya-Kunwar" target="_blank">
